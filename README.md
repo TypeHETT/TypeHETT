@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TypeHETT
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in front-end.
+- 🌱 I’m currently learning HTML.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me?
 
