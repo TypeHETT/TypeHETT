@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TypeHETT
 - 👀 I’m interested in front-end.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning HTML. I will look up for CSS, JS, JQuery and AngularJS.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me?
 
